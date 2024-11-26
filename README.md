@@ -15,9 +15,9 @@ Community engagement within the thriving heart of Berlin._
 
 * [AdmiralCloud connector][ADMIRAL_CLOUD_CONNECTOR] _– Connects [AdmiralCloud][ADMIRAL_CLOUD] with TYPO3 using a separate file storage._
 * [Cache Bags][CACHE_BAGS] _– Registry to build cache bags for enhanced cache control._
-* [Myra Cloud connector][CPS_MYRA_CLOUD] _– Allows to clear [Myra][MYRA_CLOUD] cache from TYPO3 backend._
 * [Handlebars][HANDLEBARS] _– Provides a rendering environment for [Handlebars][HANDLEBARS_JS] templates._
 * [Mailqueue][MAILQUEUE] _– Improves TYPO3's mail spooler with additional components._
+* [Myra Cloud connector][CPS_MYRA_CLOUD] _– Allows to clear [Myra][MYRA_CLOUD] cache from TYPO3 backend._
 * [Personio Jobs][PERSONIO_JOBS] _– Integrates jobs from [Personio][PERSONIO] Recruiting API into TYPO3._
 * [Shortnr][SHORTNR] _– Builds links to pages and extension records with a tiny url._
 
