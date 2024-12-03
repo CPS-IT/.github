@@ -4,7 +4,7 @@
 
 # CPS 🧡 Open Source
 
-[**coding.&nbsp;powerful.&nbsp;systems**][WEBSITE] &middot; [Projects][REPOS] &middot; [LinkedIn][LINKEDIN] &middot; [Jobs][JOBS]
+[**coding.&nbsp;powerful.&nbsp;systems.**][WEBSITE] &middot; [Projects][REPOS] &middot; [LinkedIn][LINKEDIN] &middot; [Jobs][JOBS]
 
 _[TYPO3] for Federal Ministeries, Governmental and Non-Governmental organisations –\
 Community engagement within the thriving heart of Berlin._
