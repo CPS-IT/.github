@@ -24,6 +24,7 @@ Community engagement within the thriving heart of Berlin._
 ## 📦 Composer libraries
 
 * [Frontend Asset Handler][FAH] _– Download and extract Frontend assets in Composer projects._
+* [Monitoring][MONITORING] _– Generic monitoring solution for web applications._
 * [Project Builder][PROJECT_BUILDER] _– Allowes to create new projects from project templates._
 
 
@@ -38,6 +39,7 @@ Community engagement within the thriving heart of Berlin._
 [JOBS]: https://www.cps-it.de/karriere
 [LINKEDIN]: https://linkedin.com/company/cps-it-gmbh
 [MAILQUEUE]: https://github.com/CPS-IT/mailqueue
+[MONITORING]: https://github.com/CPS-IT/monitoring
 [MYRA_CLOUD]: https://www.myrasecurity.com/
 [PERSONIO]: https://www.personio.com/
 [PERSONIO_JOBS]: https://github.com/CPS-IT/personio-jobs
