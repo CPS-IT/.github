@@ -4,12 +4,16 @@
 
 # CPS 🧡 Open Source
 
-[**coding.&nbsp;powerful.&nbsp;systems.**][WEBSITE] &middot; [Projects][REPOS] &middot; [LinkedIn][LINKEDIN] &middot; [Jobs][JOBS]
-
 _[TYPO3] for Federal Ministeries, Governmental and Non-Governmental organisations –\
 Community engagement within the thriving heart of Berlin._
 
 </div>
+
+## 👋 [coding.&nbsp;powerful.&nbsp;systems.][WEBSITE]
+
+* [Check our public repositories][REPOS] 📂
+* [Follow us on LinkedIn][LINKEDIN] 👔
+* [We're hiring!][JOBS] 🚀
 
 ## 🎁 TYPO3 extensions
 
@@ -21,11 +25,15 @@ Community engagement within the thriving heart of Berlin._
 * [Personio Jobs][PERSONIO_JOBS] _– Integrates jobs from [Personio][PERSONIO] Recruiting API into TYPO3._
 * [Shortnr][SHORTNR] _– Builds links to pages and extension records with a tiny url._
 
+[_Show all TYPO3 extensions &raquo;_][PACKAGIST_EXTENSIONS]
+
 ## 📦 Composer libraries
 
 * [Frontend Asset Handler][FAH] _– Download and extract Frontend assets in Composer projects._
 * [Monitoring][MONITORING] _– Generic monitoring solution for web applications._
 * [Project Builder][PROJECT_BUILDER] _– Allowes to create new projects from project templates._
+
+[_Show all Composer libraries &raquo;_][PACKAGIST_LIBRARIES]
 
 
 
@@ -41,6 +49,8 @@ Community engagement within the thriving heart of Berlin._
 [MAILQUEUE]: https://github.com/CPS-IT/mailqueue
 [MONITORING]: https://github.com/CPS-IT/monitoring
 [MYRA_CLOUD]: https://www.myrasecurity.com/
+[PACKAGIST_EXTENSIONS]: https://packagist.org/?query=cpsit&type=typo3-cms-extension
+[PACKAGIST_LIBRARIES]: https://packagist.org/?query=cpsit&type=-typo3-cms-extension
 [PERSONIO]: https://www.personio.com/
 [PERSONIO_JOBS]: https://github.com/CPS-IT/personio-jobs
 [PROJECT_BUILDER]: https://github.com/CPS-IT/project-builder
