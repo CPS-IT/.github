@@ -14,6 +14,8 @@ Community engagement within the thriving heart of Berlin._
 * [Check our public repositories][REPOS] 📂
 * [Follow us on LinkedIn][LINKEDIN] 👔
 * [We're hiring!][JOBS] 🚀
+* [TYPO3 Solution Partner][SOLUTION_PARTNER] 🤝
+* [TYPO3 Camp Berlin Organizer][T3CB] 🐝
 
 ## 🎁 TYPO3 extensions
 
@@ -64,5 +66,6 @@ Community engagement within the thriving heart of Berlin._
 [REPOS]: https://github.com/orgs/CPS-IT/repositories?type=source&q=fork%3Afalse
 [SHORTNR]: https://github.com/CPS-IT/cps_shortnr
 [SOLUTION_PARTNER]: https://typo3.com/partners/company/cps-it
+[T3CB]: https://www.t3cb.de/
 [TYPO3]: https://typo3.org/
 [WEBSITE]: https://www.cps-it.de/
