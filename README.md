@@ -4,7 +4,7 @@
 
 # CPS 🧡 Open Source
 
-_[TYPO3] for Federal Ministeries, Governmental and Non-Governmental organisations –\
+_[TYPO3] for Federal Ministries, Governmental and Non-Governmental organisations –\
 Community engagement within the thriving heart of Berlin._
 
 </div>
@@ -17,7 +17,7 @@ Community engagement within the thriving heart of Berlin._
 
 ## 🎁 TYPO3 extensions
 
-* [AdmiralCloud connector][ADMIRAL_CLOUD_CONNECTOR] _– Connects [AdmiralCloud][ADMIRAL_CLOUD] with TYPO3 using a separate file storage._
+* [AdmiralCloud connector][ADMIRAL_CLOUD_CONNECTOR] _– Connects [AdmiralCloud][ADMIRAL_CLOUD] with TYPO3 using a separate file storage._
 * [Cache Bags][CACHE_BAGS] _– Registry to build cache bags for enhanced cache control._
 * [Handlebars][HANDLEBARS] _– Provides a rendering environment for [Handlebars][HANDLEBARS_JS] templates._
 * [Mailqueue][MAILQUEUE] _– Improves TYPO3's mail spooler with additional components._
@@ -34,6 +34,12 @@ Community engagement within the thriving heart of Berlin._
 * [Project Builder][PROJECT_BUILDER] _– Allowes to create new projects from project templates._
 
 [_Show all Composer libraries &raquo;_][PACKAGIST_LIBRARIES]
+
+---
+
+[![TYPO3 Association Platinum Member](img/typo3-association-platinum-member.png)][PLATINUM_MEMBER]
+&nbsp;&nbsp;&nbsp;
+[![TYPO3 Solution Partner](img/typo3-solution-partner.png)][SOLUTION_PARTNER]
 
 
 
@@ -53,8 +59,10 @@ Community engagement within the thriving heart of Berlin._
 [PACKAGIST_LIBRARIES]: https://packagist.org/?query=cpsit&type=-typo3-cms-extension
 [PERSONIO]: https://www.personio.com/
 [PERSONIO_JOBS]: https://github.com/CPS-IT/personio-jobs
+[PLATINUM_MEMBER]: https://typo3.org/project/association/members/platinum
 [PROJECT_BUILDER]: https://github.com/CPS-IT/project-builder
 [REPOS]: https://github.com/orgs/CPS-IT/repositories?type=source&q=fork%3Afalse
 [SHORTNR]: https://github.com/CPS-IT/cps_shortnr
+[SOLUTION_PARTNER]: https://typo3.com/partners/company/cps-it
 [TYPO3]: https://typo3.org/
 [WEBSITE]: https://www.cps-it.de/
