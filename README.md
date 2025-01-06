@@ -9,7 +9,7 @@ Community engagement within the thriving heart of Berlin._
 
 </div>
 
-## 👋 [coding.&nbsp;powerful.&nbsp;systems.][WEBSITE]
+## 👋 [coding.&nbsp;powerful.&nbsp;systems.&nbsp;CPS&nbsp;GmbH][WEBSITE]
 
 * [Check our public repositories][REPOS] 📂
 * [Follow us on LinkedIn][LINKEDIN] 👔
