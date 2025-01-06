@@ -1,6 +1,6 @@
 <div align="center">
 
-[![coding. powerful. systems. CPS GmbH](img/header.png)][WEBSITE]
+[![coding. powerful. systems. CPS GmbH](../img/header.png)][WEBSITE]
 
 # CPS 🧡 Open Source
 
@@ -39,9 +39,9 @@ Community engagement within the thriving heart of Berlin._
 
 ---
 
-[![TYPO3 Association Platinum Member](img/typo3-association-platinum-member.png)][PLATINUM_MEMBER]
+[![TYPO3 Association Platinum Member](../img/typo3-association-platinum-member.png)][PLATINUM_MEMBER]
 &nbsp;&nbsp;&nbsp;
-[![TYPO3 Solution Partner](img/typo3-solution-partner.png)][SOLUTION_PARTNER]
+[![TYPO3 Solution Partner](../img/typo3-solution-partner.png)][SOLUTION_PARTNER]
 
 
 
