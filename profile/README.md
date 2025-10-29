@@ -23,7 +23,7 @@ Community engagement within the thriving heart of Berlin._
 * [Cache Bags][CACHE_BAGS] _– Registry to build cache bags for enhanced cache control._
 * [Handlebars][HANDLEBARS] _– Provides a rendering environment for [Handlebars][HANDLEBARS_JS] templates._
 * [Mailqueue][MAILQUEUE] _– Improves TYPO3's mail spooler with additional components._
-* [Myra Cloud connector][CPS_MYRA_CLOUD] _– Allows to clear [Myra][MYRA_CLOUD] cache from TYPO3 backend._
+* [Myra Cloud connector][MYRA_CLOUD_CONNECTOR] _– Allows to clear [Myra][MYRA_CLOUD] cache from TYPO3 backend._
 * [Personio Jobs][PERSONIO_JOBS] _– Integrates jobs from [Personio][PERSONIO] Recruiting API into TYPO3._
 * [Shortnr][SHORTNR] _– Builds links to pages and extension records with a tiny url._
 
@@ -48,7 +48,6 @@ Community engagement within the thriving heart of Berlin._
 [ADMIRAL_CLOUD]: https://www.admiralcloud.com/
 [ADMIRAL_CLOUD_CONNECTOR]: https://github.com/CPS-IT/admiral-cloud-connector
 [CACHE_BAGS]: https://github.com/CPS-IT/cache-bags
-[CPS_MYRA_CLOUD]: https://github.com/CPS-IT/cps_myra_cloud
 [FAH]: https://github.com/CPS-IT/frontend-asset-handler
 [HANDLEBARS]: https://github.com/CPS-IT/handlebars
 [HANDLEBARS_JS]: https://handlebarsjs.com/
@@ -57,6 +56,7 @@ Community engagement within the thriving heart of Berlin._
 [MAILQUEUE]: https://github.com/CPS-IT/mailqueue
 [MONITORING]: https://github.com/CPS-IT/monitoring
 [MYRA_CLOUD]: https://www.myrasecurity.com/
+[MYRA_CLOUD_CONNECTOR]: https://github.com/CPS-IT/myra-cloud-connector
 [PACKAGIST_EXTENSIONS]: https://packagist.org/?query=cpsit&type=typo3-cms-extension
 [PACKAGIST_LIBRARIES]: https://packagist.org/?query=cpsit&type=-typo3-cms-extension
 [PERSONIO]: https://www.personio.com/
