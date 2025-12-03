@@ -19,7 +19,7 @@ Community engagement within the thriving heart of Berlin._
 
 ## 🎁 TYPO3 extensions
 
-* [AdmiralCloud connector][ADMIRAL_CLOUD_CONNECTOR] _– Connects [AdmiralCloud][ADMIRAL_CLOUD] with TYPO3 using a separate file storage._
+* [AdmiralCloud connector][ADMIRAL_CLOUD_CONNECTOR] _– Connects [AdmiralCloud][ADMIRAL_CLOUD] with TYPO3 using a custom file storage._
 * [Cache Bags][CACHE_BAGS] _– Registry to build cache bags for enhanced cache control._
 * [Handlebars][HANDLEBARS] _– Provides a rendering environment for [Handlebars][HANDLEBARS_JS] templates._
 * [Mailqueue][MAILQUEUE] _– Improves TYPO3's mail spooler with additional components._
@@ -27,7 +27,7 @@ Community engagement within the thriving heart of Berlin._
 * [Personio Jobs][PERSONIO_JOBS] _– Integrates jobs from [Personio][PERSONIO] Recruiting API into TYPO3._
 * [Shortnr][SHORTNR] _– Builds links to pages and extension records with a tiny url._
 
-[_Show all TYPO3 extensions &raquo;_][PACKAGIST_EXTENSIONS]
+_&raquo;&nbsp;Show all TYPO3 extensions ([TER][TER_EXTENSIONS], [Packagist][PACKAGIST_EXTENSIONS])_
 
 ## 📦 Composer libraries
 
@@ -35,7 +35,7 @@ Community engagement within the thriving heart of Berlin._
 * [Monitoring][MONITORING] _– Generic monitoring solution for web applications._
 * [Project Builder][PROJECT_BUILDER] _– Allowes to create new projects from project templates._
 
-[_Show all Composer libraries &raquo;_][PACKAGIST_LIBRARIES]
+_&raquo;&nbsp;Show all Composer libraries ([Packagist][PACKAGIST_LIBRARIES])_
 
 ---
 
@@ -61,11 +61,12 @@ Community engagement within the thriving heart of Berlin._
 [PACKAGIST_LIBRARIES]: https://packagist.org/?query=cpsit&type=-typo3-cms-extension
 [PERSONIO]: https://www.personio.com/
 [PERSONIO_JOBS]: https://github.com/CPS-IT/personio-jobs
-[PLATINUM_MEMBER]: https://typo3.org/project/association/members/platinum
+[PLATINUM_MEMBER]: https://typo3.org/association/membership/directory/platinum
 [PROJECT_BUILDER]: https://github.com/CPS-IT/project-builder
 [REPOS]: https://github.com/orgs/CPS-IT/repositories?type=source&q=fork%3Afalse
 [SHORTNR]: https://github.com/CPS-IT/cps_shortnr
-[SOLUTION_PARTNER]: https://typo3.com/partners/company/cps-it
+[SOLUTION_PARTNER]: https://typo3.com/partner/coding-powerful-systems-cps-gmbh
 [T3CB]: https://www.t3cb.de/
+[TER_EXTENSIONS]: https://extensions.typo3.org/?L=0&id=1&tx_solr%5Bq%5D=coding.+powerful.+systems.+CPS+GmbH
 [TYPO3]: https://typo3.org/
 [WEBSITE]: https://www.cps-it.de/
